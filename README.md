@@ -81,3 +81,20 @@ The FastAPI backend exposes two main routers:
 | `/jobs` | Task (Job) Management and Queueing | `POST /`, `GET /`, `PUT /{job_id}`, `DELETE /{job_id}`, `PUT /{job_id}/status`. |
 
 -----
+
+## Images
+<img width="1916" height="912" alt="Screenshot 2025-10-15 154809" src="https://github.com/user-attachments/assets/71272343-8235-4fd5-ba77-78e5368ebb81" />
+
+-----
+
+<img width="1919" height="913" alt="Screenshot 2025-10-15 154822" src="https://github.com/user-attachments/assets/56492288-9f6c-4ef3-9dec-5088d84763c2" />
+
+-----
+
+<img width="1904" height="910" alt="Screenshot 2025-10-15 155001" src="https://github.com/user-attachments/assets/fa1c9573-2aa7-4cfe-b2df-cf134c28d01b" />
+
+-----
+
+<img width="620" height="350" alt="Screenshot 2025-10-15 155140" src="https://github.com/user-attachments/assets/3e8f58ab-73f6-441f-985f-34355a6e4179" />
+
+-----
